@@ -7,3 +7,4 @@ loop is to display again and again then restat your computer to remove the pop u
 then go to "hellgate" app to add the program behind the picture
 an example logo is added
 an example code without logo is also added
+html.vbs is the 2nd example file
